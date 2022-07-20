@@ -1,6 +1,6 @@
 <h1>Sobre</h1>
-<p>Olá, eu sou o <b>robrodric</b></p>.
-<p>Atualmente estou aprendendo <b>FRONT-END</b></p>.
+<p>Olá, eu sou o <b>robrodric</b></p>
+<p>Atualmente estou aprendendo <b>FRONT-END</b></p>
 
 <h1>Habilidades</h1>
 <p>HTML<p>
