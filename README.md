@@ -2,7 +2,7 @@
 
 Hi, I'm robrodric, I'm always looking to advance in the programming area.
 I'm currently struggling to be a good developer.
-
+I have several projects to be done.
 <h2 align='center'>🔧Tools</h1>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
