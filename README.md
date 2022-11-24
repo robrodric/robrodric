@@ -14,6 +14,4 @@ I have several projects to be done.
 
 <h3 align="center">📚 ​​I want to learn:</h3>
 
-Python
-React
-Vue
+Python, React and React Native
